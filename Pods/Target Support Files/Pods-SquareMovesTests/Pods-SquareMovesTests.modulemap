@@ -1,0 +1,6 @@
+framework module Pods_SquareMovesTests {
+  umbrella header "Pods-SquareMovesTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
